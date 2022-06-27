@@ -12,4 +12,4 @@ Backgroung image loading project inspired by Brad Traversy.
 
 # Project Link
 
-Visit Here ➡: 
+Visit Here ➡:  https://poojaa1605.github.io/Background-image-loading/
